@@ -1,7 +1,7 @@
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
-
-const app = firebase.initializeApp({
+//the keys and config data u see below are invalid and are here only as an example of the structure of this file
+const app = firebase.initializeApp({ 
     apiKey: "AIzaSyDNnQCPuu7-J1lpEaxsqJuG1SJR6e89ICU",
     authDomain: "groupay-7cab2.firebaseapp.com",
     projectId: "groupay-7cab2",
